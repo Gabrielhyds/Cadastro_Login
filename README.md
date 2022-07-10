@@ -1,7 +1,7 @@
-# Projeto Tela de login
+# Prototipo Tela de login
 - Desenvolvido com intuito de praticar design com HTML,CSS
 
-![Captura de Tela (136)](https://user-images.githubusercontent.com/85001629/178113702-7cf35bee-0991-4e41-bf15-f47ddc460866.png)
+![Captura de Tela (139)](https://user-images.githubusercontent.com/85001629/178151903-e02f9ec1-aaa1-4c02-a965-577e16ad4c34.png)
 
 # 💼 Tecnologias utilizadas
 
